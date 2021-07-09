@@ -1,5 +1,4 @@
-# helm-passwordgen
-
+![1]
 1. Save Gen.py 
 
 2. "python Gen.py" 
