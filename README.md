@@ -1,9 +1,7 @@
-![banner](https://i.imgur.com/ifyW5JZ.jpeg)
+![banner](https://i.imgur.com/yvE0a0Y.jpg)
 
 
-
-1. Save Gen.py 
-
-2. "python Gen.py" 
-
-3. Generate said password. 
+- clone repo or copy gen.py
+- go to directory where gen.py has been clonded or saved.
+- run the following "python gen.py"
+- enter the lenth of password.
